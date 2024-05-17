@@ -1,8 +1,5 @@
-Certainly! Below is a sample GitHub repository description for your Quiz application, including an overview, features, requirements, installation steps, usage instructions, and contribution guidelines.
 
----
-
-## Quiz Application
+## Python-Quiz-App-version--1
 
 This is a Python-based Quiz Application built with Tkinter for the graphical user interface. The application presents a quiz on Geography and General Knowledge, featuring 15 questions related to Sylhet, Bangladesh, and the world. The quiz results are automatically saved to an Excel file on the user's desktop.
 
@@ -25,8 +22,8 @@ This is a Python-based Quiz Application built with Tkinter for the graphical use
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/quiz-application.git
-   cd quiz-application
+   git clone https://github.com/hamimifty/Python-Quiz-App-version--1.git
+   cd Python-Quiz-App-version--1
    ```
 
 2. **Install the required packages:**
@@ -71,7 +68,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ### Author
 
 - **Hamim Ifty**
-
----
-
-Feel free to customize this description further to fit your project's specifics and your preferences.
